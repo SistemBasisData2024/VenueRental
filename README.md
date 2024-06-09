@@ -50,9 +50,11 @@ Ide ini terinspirasi dari website pinjam ruang di Fakultas Teknik, yang bertujua
 
 ## Diagram
 ### UML
-[image]
+![UML](https://github.com/SistemBasisData2024/VenueRental/assets/144365316/e91fd4d3-c9a5-4e22-8137-34ab34711f81)
+
 ### ERD
-[image]
+![ERD](https://github.com/SistemBasisData2024/VenueRental/assets/144365316/acaebd19-1460-4ef2-a5d8-8095d6f586d4)
+
 ### Flowchart
 [image]
 
@@ -120,4 +122,5 @@ git clone [url]
 ![screenshot1](https://github.com/TantoLesmana/sbd-finpro-kelompok-9/assets/144365316/5df19c1b-e61d-4ec7-87f0-2b6db981f5d8)
 
 ### Report 2
-[screenshotprogress]
+![dokum 2](https://github.com/SistemBasisData2024/VenueRental/assets/144365316/e9476a0f-bbd6-44ea-8c94-468022496100)
+
