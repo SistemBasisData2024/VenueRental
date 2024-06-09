@@ -56,7 +56,8 @@ Ide ini terinspirasi dari website pinjam ruang di Fakultas Teknik, yang bertujua
 ![ERD](https://github.com/SistemBasisData2024/VenueRental/assets/144365316/acaebd19-1460-4ef2-a5d8-8095d6f586d4)
 
 ### Flowchart
-[image]
+![Flowchart](https://github.com/SistemBasisData2024/VenueRental/assets/144365316/23baca0a-b85a-4487-be85-177898377d7b)
+
 
 ## Instalasi
 
